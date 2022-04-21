@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profili>
+  <korisnici>
+    <korisnickoime>deni.mendica</korisnickoime>
+    <lozinka>test</lozinka>
+  </korisnici>
+  <korisnici>
+    <korisnickoime>emanuel</korisnickoime>
+    <lozinka>gas</lozinka>
+  </korisnici>
+  <korisnici>
+    <korisnickoime>deni</korisnickoime>
+    <lozinka>123</lozinka>
+  </korisnici>
+  <korisnici>
+    <korisnickoime>oliver</korisnickoime>
+    <lozinka>oliver21</lozinka>
+  </korisnici>
+  <korisnici>
+    <korisnickoime>sine</korisnickoime>
+    <lozinka>1234</lozinka>
+  </korisnici>
+</profili>
